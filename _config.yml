@@ -8,7 +8,11 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+<<<<<<< HEAD
 url:                http://denislamov.github.io/
+=======
+url:                https://taylantatli.github.io/Moon
+>>>>>>> parent of 9d50425... _config changed, base url changed
 
 # Jekyll
 permalink:          /:title/
@@ -37,20 +41,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              denislamovartur@gmail.com
+#email:
 twitter:            username
 facebook:           username
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           https://www.linkedin.com/in/arturdenislamov/
+#linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
