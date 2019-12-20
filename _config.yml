@@ -1,7 +1,7 @@
 # Site
 title:              Artur Denislamov
-bio:                'Innopolis University student, Game Developer.'
-description:        "oon is a minimal, one column jekyll theme for your blog."
+bio:                'Game Developer. Innopolis University student.'
+description:        "Personal webpage. Lorem Ipsum."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,14 +38,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:               denislamovartur@gmail.com
+#twitter:            username
+#facebook:           username
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           arturdenislamov/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
