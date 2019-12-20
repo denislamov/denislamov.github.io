@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-tags: [about, Jekyll, theme, moon]
+tags: [about, denislamov]
 date: 2016-03-21
 comments: false
 ---
 
 ## Hello! My name is Artur Denislamov. 
-* Minimal, you can focus on your content
+* inimal, you can focus on your content
 * Responsive
 * Disqus integration
 * Syntax highlighting
