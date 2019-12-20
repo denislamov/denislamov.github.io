@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [about, denislamov]
+tags: [about, denislamov, arturdenislamov]
 date: 2016-03-21
 comments: false
 ---
