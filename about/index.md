@@ -6,7 +6,8 @@ date: 2016-03-21
 comments: false
 ---
 
-## Hello! My name is Artur Denislamov. 
+## Hello! 
+## My name is Artur Denislamov. 
 * inimal, you can focus on your content
 * Responsive
 * Disqus integration
