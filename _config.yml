@@ -9,10 +9,14 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 <<<<<<< HEAD
+<<<<<<< HEAD
 url:                http://denislamov.github.io/
 =======
 url:                https://taylantatli.github.io/Moon
 >>>>>>> parent of 9d50425... _config changed, base url changed
+=======
+url:                https://denislamov.github.io/
+>>>>>>> parent of 985759f... url changed: https-> http
 
 # Jekyll
 permalink:          /:title/
