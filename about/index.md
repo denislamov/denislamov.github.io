@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About me
+tags: [about, denislamov, arturdenislamov]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
+## Hello! 
+## My name is Artur Denislamov. 
+* inimal, you can focus on your content
 * Responsive
 * Disqus integration
 * Syntax highlighting
