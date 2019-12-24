@@ -18,7 +18,7 @@ comments: false
     * Analytics
 * **Contacts:**
     * Email: denislamovartur@gmail.com
-    * Telegram: @denislamovarthur
+    * Telegram: [@denislamovarthur](https://t.me/denislamovarthur)
 * Page for sharing projects
 * Optional background image
 * Simple navigation menu
