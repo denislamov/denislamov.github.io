@@ -2,7 +2,7 @@
 layout: page
 title: About me
 tags: [about, denislamov, arturdenislamov]
-date: 2019-03-21
+date: 2019-12-24
 comments: false
 ---
 
@@ -10,13 +10,16 @@ comments: false
 ## My name is Artur Denislamov. 
 ## General info
 * **Full name:** Artur Denislamov
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
+* **Residence:** Innopolis, Russia
+* **Position:** Student (Innopolis University)
+* **Main field of interest:** Game Development
+    * Game design
+    * Game programming
+    * Analytics
+* **Contacts:**
+    * Email: denislamovartur@gmail.com
+    * Telegram: @denislamovarthur
 * Page for sharing projects
 * Optional background image
 * Simple navigation menu
 * MathJax support
-
-## Preview
