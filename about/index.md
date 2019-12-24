@@ -15,7 +15,7 @@ comments: false
 * **Main field of interest:** Game Development
     * Game design
     * Game programming
-    * Analytics
+    * Game Analytics
 * **Contacts:**
     * Email: denislamovartur@gmail.com
     * Telegram: [@denislamovarthur](https://t.me/denislamovarthur)
