@@ -1,18 +1,15 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
+title:  "Pilgrims | GDNotes"
+date:   2019-12-24
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- gdnotes
+- pilgrims
 comments: true
 ---
 
-## HTML Elements
+## Об игре
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
