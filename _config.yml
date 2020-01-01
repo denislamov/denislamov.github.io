@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   artur
+disqus_shortname:   Artur
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -41,7 +41,7 @@ disqus_shortname:   artur
 email:               denislamovartur@gmail.com
 #twitter:            username
 #facebook:           username
-#github-url:         username
+github-url:         ArturDenislamov
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           arturdenislamov/
 #xing:              username
