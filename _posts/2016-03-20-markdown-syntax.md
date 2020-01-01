@@ -1,17 +1,22 @@
 ---
 layout: post
-title:  "Pilgrims | GDNotes"
-date:   2019-12-24
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Pilgrims | GDnotes 0"
+date:   2019-01-02
+excerpt: "Заметки посвящённые игре"
 tag:
-- gdnotes
-- pilgrims
+- GDnotes
+
 comments: true
 ---
 
-## Об игре
+### Дата выхода: 6 октября 2019 
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+### Разработчики: Amanita Design
+### Платформа: IOS (Apple Arcade), PC
+
+
+
+
 
 # Heading 1
 
