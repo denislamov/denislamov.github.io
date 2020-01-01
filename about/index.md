@@ -9,7 +9,7 @@ comments: false
 ## Hello! 
 ## My name is Artur Denislamov. 
 ## General info
-<a><img src="/assets/img/photo.png" width="150" height="150"></a>
+<a><img src="/assets/img/photo.png" vertical-align="right" width="150" height="150"></a>
 * **Full name:** Artur Denislamov
 * **Residence:** Innopolis, Russia
 * **Position:** Student (Innopolis University)
