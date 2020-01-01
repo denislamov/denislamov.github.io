@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [about, denislamov, arturdenislamov]
+tags: [about me, arturdenislamov]
 date: 2019-12-24
 comments: false
 ---
@@ -19,7 +19,3 @@ comments: false
 * **Contacts:**
     * Email: denislamovartur@gmail.com
     * Telegram: [@denislamovarthur](https://t.me/denislamovarthur)
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
