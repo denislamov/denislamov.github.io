@@ -14,6 +14,8 @@ comments: false
 {: height="250px" width="250px" .image-right}
 
 
+
+
 * **Full name:** Artur Denislamov
 * **Residence:** Innopolis, Russia
 * **Position:** Student (Innopolis University)
