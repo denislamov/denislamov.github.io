@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Juicy Edge"
+date:   2019-01-02
+excerpt: "Casul Android Game"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- game
 comments: true
 ---
 
