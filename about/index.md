@@ -10,7 +10,7 @@ comments: false
 ## My name is Artur Denislamov. 
 ## General info
 
-![Photo]({{site.url}}/assets/photo.png)
+![Photo]({{site.url}}/assets/img/photo.png)
 {: .image-right }
 
 
