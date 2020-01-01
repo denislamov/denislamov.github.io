@@ -11,7 +11,7 @@ comments: false
 ## General info
 
 ![Photo](/assets/img/photo.png)
-{: .image-right }
+{: .image-right width=150 height=150 }
 
 
 * **Full name:** Artur Denislamov
