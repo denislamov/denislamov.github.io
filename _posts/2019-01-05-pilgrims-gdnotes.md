@@ -2,7 +2,7 @@
 layout: post
 title:  "Pilgrims | GDnotes #0"
 date:   2019-01-02
-excerpt: "Заметки геймдизайнера, посвящённые игре"
+excerpt: "Приятная и короткая история с добрым юмором"
 tag:
 - gdnotes
 - point&click 
