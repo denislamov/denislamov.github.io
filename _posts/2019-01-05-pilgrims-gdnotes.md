@@ -5,6 +5,7 @@ date:   2019-01-02
 excerpt: "Заметки геймдизайнера, посвящённые игре"
 tag:
 - GDnotes
+feature: /assets/img/gdnotes/pilgrims.jpg
 
 comments: true
 ---
