@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pilgrims | GDnotes 0"
+title:  "Pilgrims | GDnotes #0"
 date:   2019-01-02
-excerpt: "Заметки посвящённые игре"
+excerpt: "Заметки геймдизайнера, посвящённые игре"
 tag:
 - GDnotes
 
@@ -12,8 +12,9 @@ comments: true
 ### Дата выхода: 6 октября 2019 
 
 ### Разработчики: Amanita Design
-### Платформа: IOS (Apple Arcade), PC
 
+### Играли на: IOS (Apple Aracde), IPhone 6S 
+### Количество часов: 1.5 
 
 
 
