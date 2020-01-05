@@ -6,7 +6,7 @@ excerpt: "Приятная и короткая история с добрым ю
 tag:
 - gdnotes
 - point&click 
-feature: https://steamcdn-a.akamaihd.net/steam/apps/1049280/header.jpg?t=1573131323
+feature: /assets/img/gdnotes/pilgrims.png
 
 comments: true
 ---
